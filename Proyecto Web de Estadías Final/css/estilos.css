@@ -1,0 +1,34 @@
+
+
+.contenedor-img{
+	width: 250px;
+	height:200px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+	cursor: default;
+	background: #fff;
+	padding: 20px;
+    font-family: monospace;
+
+}
+
+.contenedor-img .mascara h2{
+		width: 220px;
+text-transform: uppercase;
+color: white;
+text-align: center;
+position: relative;
+font-size: 17px;
+padding: 10px;
+margin: 20px 0 0 0;
+background: #299889;
+
+}
+
+.contenedor-img .mascara h3{
+font-family: fantasy;
+font-size: 18px;
+}
+	}
